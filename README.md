@@ -7,7 +7,7 @@
 The goal of this project are the following:
 
 * Build a Trajectory planner for highway driving condition.
-* Plan trajectory such that there is no excessive jerk(< 10 m/s^2) and no collision with other vehicles in the simulator.
+* Plan trajectory such that there is no excessive jerk(< 10 m/s^3) and no collision with other vehicles in the simulator.
 * Get as close to Max velocity of 50 mph.
 * Change lanes when there is traffic ahead and it is safe to change lane.
 * Summarize the results with a written report.
