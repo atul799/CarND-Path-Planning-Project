@@ -71,7 +71,7 @@ Points remaining from previous path is filled in to the x and y points to be pas
 # Result
 ---
 
-## here are the points from the Project Rubric
+## Here are the points from the Project Rubric
 
 
 ### The Car is able to drive without incident for more than 4.32 miles
