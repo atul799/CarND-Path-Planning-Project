@@ -110,7 +110,7 @@ For all the above points the simulator shall issue a warning, as can be seen in 
 
 
 
-<img src="./outputs/no_Warning.png" height="600" width="800" />
+<img src="./outputs/no_warning.png" height="600" width="800" />
 
 
 ### The car has been tested to drive incident free for > 15 miles in simulator
