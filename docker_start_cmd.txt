@@ -1,0 +1,2 @@
+#docker run -it -p 4567:4567 -v 'pwd':/work udacity/controls_kit:latest
+docker run -it -p 4567:4567 -v /c/Users/atpandey/Dock/Term3/CarND-Path-Planning-Project:/work udacity/controls_kit:latest 
